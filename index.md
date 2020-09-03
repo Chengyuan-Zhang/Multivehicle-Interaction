@@ -5,4 +5,4 @@ _[Abstract]_ Interpretation of common-yet-challenging interaction scenarios can 
 
 - Access the paper via: [[arXiv](https://arxiv.org/pdf/2003.00759.pdf)].
 - View the demos via: [[YouTube](https://youtu.be/z_vf9UHtdAM)] or [[Bilibili](https://www.bilibili.com/video/BV1BD4y1m7VL/)].
-- Also check the supplements via: [[pdf](../Appendix.pdf)]
+- Also check the supplements via: [[pdf](./Appendix.pdf)]
