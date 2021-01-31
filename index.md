@@ -13,7 +13,7 @@
 <br/>  
 <br/>  
 <br/>  
-# A General Framework of Learning Multivehicle Interaction Patterns from Videos
+# A General Framework of Learning Multi-Vehicle Interaction Patterns from Videos
 ### **[Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), [Jiacheng Zhu](https://www.linkedin.com/in/jiacheng-zhu-56273886/), [Wenshuo Wang](http://wenshuow.com/), and [Ding Zhao](https://safeai-lab.github.io/)**
 
 <center>
