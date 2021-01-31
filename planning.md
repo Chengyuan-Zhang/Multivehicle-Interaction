@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /behaviors/index.html
+permalink: /Planning/index.html
 title: behaviors
 ---
 
