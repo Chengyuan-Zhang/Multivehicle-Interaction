@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+
+links:
+  - title: About
+    url: /
+  - title: Behavior
+    url: /Behavior/
+  - title: Planning
+    url: /Planning/
