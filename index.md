@@ -29,7 +29,8 @@
 
 
 <br/>  
-- - -  
+---  
+
 ## A General Framework of Learning Multi-Vehicle Interaction Patterns from Videos
 #### **[Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), [Jiacheng Zhu](https://www.linkedin.com/in/jiacheng-zhu-56273886/), [Wenshuo Wang](http://wenshuow.com/), and [Ding Zhao](https://safeai-lab.github.io/)**
 
@@ -58,5 +59,5 @@
 
 - **Access our paper via: [[IEEE ITSC19](https://ieeexplore.ieee.org/abstract/document/8917212)] or [[arXiv](https://arxiv.org/pdf/1907.07315)].**
 
- 
+<br/>  
 **If you have any questions please feel free to contact us:  Chengyuan Zhang (<enzozcy@gmail.com>), Wenshuo Wang (<wwsbit@gmail.com>)**
