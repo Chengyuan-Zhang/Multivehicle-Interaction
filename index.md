@@ -14,14 +14,13 @@
 
 <details>
   <summary><b>[Bibtex]</b></summary><p>
-    <pre>@article{zhang2020spatiotemporal,  
-      title={Spatiotemporal learning of multivehicle interaction patterns in lane-change scenarios},  
-      author={Zhang, Chengyuan and Zhu, Jiacheng and Wang, Wenshuo and Xi, Junqiang},  
-      journal={IEEE Transactions on Intelligent Transportation Systems},  
-      pages={1-14},  
-      doi={10.1109/TITS.2021.3057645}},  
-      year={2021}  
-      }</pre></p>
+    <pre>@article{zhang2021spatiotemporal,
+      title={Spatiotemporal learning of multivehicle interaction patterns in lane-change scenarios},
+      author={Zhang, Chengyuan and Zhu, Jiacheng and Wang, Wenshuo and Xi, Junqiang},
+      journal={IEEE Transactions on Intelligent Transportation Systems},
+      year={2021},
+      publisher={IEEE}
+    }</pre></p>
 </details>
 
 
