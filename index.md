@@ -63,4 +63,36 @@
 
 <br/>  
 
-**If you have any questions please feel free to contact us:  Chengyuan Zhang (<enzozcy@gmail.com>), Wenshuo Wang (<wwsbit@gmail.com>)**
+- - -  
+## Learning Representations for Multi-Vehicle Spatiotemporal Interactions with Semi-Stochastic Potential Fields
+#### **[Wenshuo Wang](http://wenshuow.com/), [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), Pin Wang, and Ching-Yao Chan**
+
+<center>
+  <img src="./images/semi_stochastic_field.png" width="70%" />
+</center>
+
+<details>
+  <summary><b>[Abstract]</b></summary>
+  
+  Reliable representation of multi-vehicle interactions in urban traffic is pivotal but challenging for autonomous vehicles due to the volatility of the traffic environment, such as roundabouts and intersections. This paper describes a semi-stochastic potential field approach to represent multi-vehicle interactions by integrating a deterministic field approach with a stochastic one. First, we conduct a comprehensive evaluation of potential fields for representing multi-agent intersections from the deterministic and stochastic perspectives. For the former, the estimates at each location in the region of interest (ROI) are deterministic, which is usually built using a family of parameterized exponential functions directly. For the latter, the estimates are stochastic and specified by a random variable, which is usually built based on stochastic processes such as the Gaussian process. Our proposed semi-stochastic potential field, combining the best of both, is validated based on the INTERACTION dataset collected in complicated real-world urban settings, including intersections and roundabout. Results demonstrate that our approach can capture more valuable information than either the deterministic or stochastic ones alone. This work sheds light on the development of algorithms in decision-making, path/motion planning, and navigation for autonomous vehicles in the cluttered urban settings.
+</details>
+
+<details>
+  <summary><b>[Bibtex]</b></summary><p>
+    <pre>@inproceedings{wang2020learning,
+      title={Learning Representations for Multi-Vehicle Spatiotemporal Interactions with Semi-Stochastic Potential Fields},
+      author={Wang, Wenshuo and Zhang, Chengyuan and Wang, Pin and Chan, Ching-Yao},
+      booktitle={2020 IEEE Intelligent Vehicles Symposium (IV)},
+      pages={1935--1940},
+      year={2020},
+      organization={IEEE}
+    }</pre></p>
+</details>
+
+
+- **Access our paper via: [[paper](https://ieeexplore.ieee.org/abstract/document/9304849)].**
+
+<br/>  
+
+
+**If you have any questions please feel free to contact us:  [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (<enzozcy@gmail.com>), [Wenshuo Wang](http://wenshuow.com/) (<wwsbit@gmail.com>)**
