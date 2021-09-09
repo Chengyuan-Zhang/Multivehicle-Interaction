@@ -68,7 +68,7 @@
 #### **[Wenshuo Wang](http://wenshuow.com/), [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), Pin Wang, and Ching-Yao Chan**
 
 <center>
-  <img src="./images/semi_stochastic_field.png" width="70%" />
+  <img src="./images/semi_stochastic_field.png" width="60%" />
 </center>
 
 <details>
