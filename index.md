@@ -1,6 +1,6 @@
 - - -  
 ## Spatiotemporal Learning of Multivehicle Interaction Patterns in Lane-Change Scenarios
-#### **[Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), [Jiacheng Zhu](https://www.linkedin.com/in/jiacheng-zhu-56273886/), [Wenshuo Wang](http://wenshuow.com/), and Junqiang Xi)**
+#### **[Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), [Jiacheng Zhu](https://www.linkedin.com/in/jiacheng-zhu-56273886/), [Wenshuo Wang](http://wenshuow.com/), and Junqiang Xi**
 
 <center>
   <img src="./images/GVF_framework.Png" width="85%" />
