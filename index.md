@@ -1,6 +1,6 @@
 - - -  
 ## Spatiotemporal Learning of Multivehicle Interaction Patterns in Lane-Change Scenarios
-#### **[Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), [Jiacheng Zhu](https://www.linkedin.com/in/jiacheng-zhu-56273886/), [Wenshuo Wang](http://wenshuow.com/), and Junqiang Xi**
+#### **[Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), [Jiacheng Zhu](https://jiachengzhuml.github.io/), [Wenshuo Wang](http://wenshuow.com/), and Junqiang Xi**
 
 <center>
   <img src="./images/GVF_framework.Png" width="85%" />
@@ -34,7 +34,7 @@
 - - -  
 
 ## A General Framework of Learning Multi-Vehicle Interaction Patterns from Videos
-#### **[Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), [Jiacheng Zhu](https://www.linkedin.com/in/jiacheng-zhu-56273886/), [Wenshuo Wang](http://wenshuow.com/), and [Ding Zhao](https://safeai-lab.github.io/)**
+#### **[Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), [Jiacheng Zhu](https://jiachengzhuml.github.io/), [Wenshuo Wang](http://wenshuow.com/), and [Ding Zhao](https://safeai-lab.github.io/)**
 
 <center>
   <img src="./images/ITSC_2019.jpg" width="80%" />
