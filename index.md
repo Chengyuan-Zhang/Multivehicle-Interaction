@@ -25,7 +25,7 @@
 
 
 - **Access our paper via: [[arXiv](https://arxiv.org/pdf/2003.00759v2.pdf)] or [[paper](https://ieeexplore.ieee.org/document/9357407)].**
-- **Watch the demos via: [[YouTube](https://youtu.be/AcyDn43hb7I)] or [[Bilibili](https://www.bilibili.com/video/BV1BD4y1m7VL/)].**
+- **Watch the demos via: [[YouTube](https://youtu.be/AcyDn43hb7I)].**
 - **Code for implementing Gaussian Velocity Field: [[Github repo](https://github.com/Chengyuan-Zhang/Gaussian_Velocity_Field)].**
 - **Also check the supplements via: [[Spatiotemporal_Appendix.pdf](./files/Spatiotemporal_Appendix.pdf)].**
 
