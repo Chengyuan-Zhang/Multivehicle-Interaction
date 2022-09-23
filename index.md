@@ -1,4 +1,32 @@
 - - -  
+## Social Interactions for Autonomous Driving: A Review and Perspective
+#### **[Wenshuo Wang](http://wenshuow.com/), [Letian Wang](https://letianwang0.wixsite.com/myhome), [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), [Changliu Liu](http://www.cs.cmu.edu/~cliu6/) and [Lijun Sun](https://lijunsun.github.io/)**
+
+
+<details>
+  <summary><b><mark>[Abstract]</mark></b></summary>
+  
+  No human drives a car in a vacuum; she/he must negotiate with other road users to achieve their goals in social traffic scenes. A rational human driver can interact with other road users in a socially-compatible way through implicit communications to complete their driving tasks smoothly in interaction-intensive, safety-critical environments. This paper aims to review the existing approaches and theories to help understand and rethink the interactions among human drivers toward social autonomous driving. We take this survey to seek the answers to a series of fundamental questions: 1) What is social interaction in road traffic scenes? 2) How to measure and evaluate social interaction? 3) How to model and reveal the process of social interaction? 4) How do human drivers reach an implicit agreement and negotiate smoothly in social interaction? This paper reviews various approaches to modeling and learning the social interactions between human drivers, ranging from optimization theory, deep learning, and graphical models to social force theory and behavioral & cognitive science. We also highlight some new directions, critical challenges, and opening questions for future research.
+</details>
+
+<details>
+  <summary><b><mark>[Bibtex]</mark> </b></summary><p>
+    <pre>@article{wang2022social,
+      title={Social Interactions for Autonomous Driving: A Review and Perspective},
+      author={Wang, Wenshuo and Wang, Letian and Zhang, Chengyuan and Liu, Changliu and Sun, Lijun},
+      journal={arXiv preprint arXiv:2208.07541},
+      year={2022}
+    }
+    }</pre></p>
+</details>
+
+
+- **Access our paper via: [[arXiv](https://arxiv.org/abs/2208.07541)].**
+
+
+<br/>  
+
+- - -  
 ## Spatiotemporal Learning of Multivehicle Interaction Patterns in Lane-Change Scenarios
 #### **[Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), [Jiacheng Zhu](https://jiachengzhuml.github.io/), [Wenshuo Wang](http://wenshuow.com/), and Junqiang Xi**
 
