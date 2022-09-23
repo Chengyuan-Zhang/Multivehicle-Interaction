@@ -2,6 +2,9 @@
 ## Social Interactions for Autonomous Driving: A Review and Perspective
 #### **[Wenshuo Wang](http://wenshuow.com/), [Letian Wang](https://letianwang0.wixsite.com/myhome), [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home), [Changliu Liu](http://www.cs.cmu.edu/~cliu6/) and [Lijun Sun](https://lijunsun.github.io/)**
 
+<center>
+  <img src="./images/review_interaction_scene.JPG" width="70%" />
+</center>
 
 <details>
   <summary><b><mark>[Abstract]</mark></b></summary>
@@ -16,7 +19,6 @@
       author={Wang, Wenshuo and Wang, Letian and Zhang, Chengyuan and Liu, Changliu and Sun, Lijun},
       journal={arXiv preprint arXiv:2208.07541},
       year={2022}
-    }
     }</pre></p>
 </details>
 
