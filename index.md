@@ -143,9 +143,7 @@ patterns, even for cluttered driving scenarios that are far messier than human b
 
 ## Learning Representations for Multi-Vehicle Spatiotemporal Interactions with Semi-Stochastic Potential Fields
 
-#### **[Wenshuo Wang](https://wenshuowang.github.io/), [Chengyuan Zhang](https://chengyuan-zhang.github.io/), Pin Wang, and
-
-Ching-Yao Chan**
+#### [Wenshuo Wang](https://wenshuowang.github.io/), [Chengyuan Zhang](https://chengyuan-zhang.github.io/), Pin Wang, and Ching-Yao Chan
 
 <center>
   <img src="./images/semi_stochastic_field.png" width="60%" />
@@ -185,6 +183,46 @@ settings.
 
 <br/>  
 
+- - -  
+
+## Interactive Car-Following: Matters but NOT Always
+
+#### [Chengyuan Zhang](https://chengyuan-zhang.github.io/), [Rui Chen](http://ruichen.pub/), [Jiacheng Zhu](https://jiachengzhuml.github.io/), [Wenshuo Wang](https://wenshuowang.github.io/), [Changliu Liu](http://www.cs.cmu.edu/~cliu6/index.html) and [Lijun Sun](https://lijunsun.github.io/)
+
+<center>
+  <img src="./images/interactive_cf.png" width="60%" />
+</center>
+
+<details>
+  <summary><b><mark>[Abstract]</mark></b></summary>
+
+Following a leading vehicle is a daily but challenging task because it requires adapting to various traffic conditions
+and the leading vehicle's behaviors. However, the question ``Does the following vehicle always actively react to the
+leading vehicle?'' remains open. To seek the answer, we propose a novel metric to quantify the interaction intensity
+within the car-following pairs. The quantified interaction intensity enables us to recognize interactive and
+non-interactive car-following scenarios and derive corresponding policies for each scenario. Then, we develop an
+interaction-aware switching control framework with interactive and non-interactive policies, achieving a human-level
+car-following performance. The extensive simulations demonstrate that our interaction-aware switching control framework
+achieves improved control performance and data efficiency compared to the unified control strategies. Moreover, the
+experimental results reveal that human drivers would not always keep reacting to their leading vehicle but occasionally
+take safety-critical or intentional actions -- interaction matters but not always.
+</details>
+
+<details>
+  <summary><b><mark>[Bibtex]</mark></b></summary><p>
+    <pre>@article{zhang2023interactive,
+  title={Interactive Car-Following: Matters but NOT Always},
+  author={Zhang, Chengyuan and Chen, Rui and Zhu, Jiacheng and Wang, Wenshuo and Liu, Changliu and Sun, Lijun},
+  journal={arXiv preprint arXiv:2307.16127},
+  year={2023}
+}</pre></p>
+</details>
+
+- **Access our paper via: [[arXiv](https://arxiv.org/pdf/2307.16127)].**
+
+<br/>  
+
+<br/>  
 
 **If you have any questions please feel free to contact
 us:  [Chengyuan Zhang](https://chengyuan-zhang.github.io/) (<enzozcy@gmail.com>)
