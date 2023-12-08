@@ -224,6 +224,4 @@ take safety-critical or intentional actions -- interaction matters but not alway
 
 <br/>  
 
-**If you have any questions please feel free to contact
-us:  [Chengyuan Zhang](https://chengyuan-zhang.github.io/) (<enzozcy@gmail.com>)
-and [Wenshuo Wang](https://wenshuowang.github.io/) (<wwsbit@gmail.com>).**
+**If you have any questions please feel free to contact [Chengyuan Zhang](https://chengyuan-zhang.github.io/) (<enzozcy@gmail.com>).**
